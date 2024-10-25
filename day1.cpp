@@ -46,14 +46,32 @@ int main() {
 // --------------------------------------------------------------------------
 
     // Do while loop
-
             /* int i=12;
             do{
                 cout<<i<<endl;
                 i++;
             }
-
             while(i<10); */
 
+    
+    // Break Statements
+        /* for(int i = 0; i<=100 ; i++){
+            cout<<i<<endl;
+            if(i==73){
+                break;
+            }
+        } */
 
+    // Continue Statements
+
+
+        /* for (int i = 0; i <= 45; i++)
+        {
+            if (i == 6)
+            {
+                continue;
+            }
+            cout << i << " ";
+        } */
+        
 }
